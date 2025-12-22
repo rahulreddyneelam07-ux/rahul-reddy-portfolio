@@ -1,0 +1,64 @@
+/* PROJECT PAGE GLOBAL STYLE */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8fafc;
+    color: #1f2933;
+    margin: 0;
+    padding: 0;
+}
+
+/* CONTAINER */
+.project-container {
+    max-width: 1000px;
+    margin: 60px auto;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+}
+
+/* HEADINGS */
+h1 {
+    color: #2563eb;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #2563eb;
+    margin-top: 40px;
+}
+
+/* TEXT */
+p {
+    line-height: 1.7;
+}
+
+/* LIST */
+ul {
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+/* IMAGES */
+.project-container img {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px 0;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+}
+
+/* BACK LINK */
+.back-link {
+    display: inline-block;
+    margin-top: 40px;
+    color: #2563eb;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
